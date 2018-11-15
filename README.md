@@ -1,10 +1,12 @@
-# My Personal README
+# Who is Hussain
 
 <img align="right" src="./me-druplicon-medium.jpg" width="419" height="402" alt="hussainweb standing next to a druplicon" title="Photo from DrupalCon Nashville" />
 
-Hi, I am [**Hussain**](https://www.linkedin.com/in/hussainweb/), an **Engineering Manager** at [Axelerant](https://www.axelerant.com/) who is learning the ropes of working more and more with people rather than machines. I am an introvert pushing myself towards extroversion by speaking at conferences, organising meetups, and pushing myself to introduce myself to others at meetups and conferences. I have worked with a variety of technologies and spent a significant portion of my career on Drupal project and Drupal community along with the wider PHP ecosystem and technology in general.
+*This is my personal README. My MANAGER readme is in a separate document for [quicker access](https://hussainweb.github.io/MANAGER-README/). As I am a person just like you (you're not a bot, right?), it would help to read this first before reading more about my management style.*
 
-I stress on learning fundamentals and theory but balanced with a healthy dose of pragmatism. I care about you as a person first and firmly believe that your well being comes before any work or cause. I try to be nice but not at the expense of being honest. I believe in giving feedback that needs to be heard rather than that which needs to be said. I think it is more important to be kind rather than being right.
+Hi, I am [**Hussain**](https://www.linkedin.com/in/hussainweb/), an [**Engineering Manager**](https://hussainweb.github.io/MANAGER-README/) at [Axelerant](https://www.axelerant.com/) who is learning the ropes of working more and more with people rather than machines. I am an introvert pushing myself towards extroversion by speaking at conferences, organising meetups, and pushing myself to introduce myself to others at meetups and conferences. I have worked with a variety of technologies and spent a significant portion of my career on Drupal project and Drupal community along with the wider PHP ecosystem and technology in general.
+
+I stress on learning fundamentals and theory but balanced with a healthy dose of pragmatism. I care about you as a person first and firmly believe that your well being comes before any work or cause. I try to be nice but not at the expense of being honest. I believe in giving feedback that needs to be heard rather than that which needs to be said. I think it is more important to be kind rather than being right. I describe more about [my management style in a different README](https://hussainweb.github.io/MANAGER-README/).
 
 Thanks to my employer and the Drupal project, I travel quite a bit, which I love. I also enjoy trying out different cuisines, taking photographs of places, people, and food wherever I go, and writing about all of that, if possible. I [tweet a lot](https://twitter.com/hussainweb) and [Instagram a bit](https://www.instagram.com/hussain.web/). I am usually **hussainweb** online everywhere.
 
