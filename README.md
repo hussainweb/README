@@ -4,7 +4,7 @@
 
 *This is my personal README. My MANAGER readme is in a separate document for [quicker access](https://hussainweb.github.io/MANAGER-README/). As I am a person just like you (you're not a bot, right?), it would help to read this first before reading more about my management style.*
 
-Hi, I am [**Hussain**](https://www.linkedin.com/in/hussainweb/), an [**Engineering Manager**](https://hussainweb.github.io/MANAGER-README/) at [Axelerant](https://www.axelerant.com/) who is learning the ropes of working more and more with people rather than machines. I am an introvert pushing myself towards extroversion by speaking at conferences, organising meetups, and pushing myself to introduce myself to others at meetups and conferences. I have worked with a variety of technologies and spent a significant portion of my career on Drupal project and Drupal community along with the wider PHP ecosystem and technology in general.
+Hi, I am [**Hussain**](https://www.linkedin.com/in/hussainweb/), a [**Service Area Lead**](https://hussainweb.github.io/MANAGER-README/) at [Axelerant](https://www.axelerant.com/) who is learning the ropes of working more and more with people and teams rather than machines. I am an introvert pushing myself towards extroversion by speaking at conferences, organising meetups, and pushing myself to introduce myself to others at meetups and conferences. I have worked with a variety of technologies and spent a significant portion of my career on Drupal project and Drupal community along with the wider PHP ecosystem and technology in general.
 
 I stress on learning fundamentals and theory but balanced with a healthy dose of pragmatism. I care about you as a person first and firmly believe that your well being comes before any work or cause. I try to be nice but not at the expense of being honest. I believe in giving feedback that needs to be heard rather than that which needs to be said. I think it is more important to be kind rather than being right. I describe more about [my management style in a different README](https://hussainweb.github.io/MANAGER-README/).
 
@@ -23,8 +23,6 @@ My current interests lie in Drupal, DevOps, and Machine Learning. In non-technol
 I am a responsible open source citizen and consciously design solutions beneficial not only to the product but also to the larger developer community. I believe that contributing to open source need not be an exhausting activity and have worked to ensure that at my workplace.
 
 Over the years, I have also grown into a different and important role of mentoring my team and helping them achieve their goals. Through effective mentoring, I have helped transform people into high performing individuals who are happy with what they do. I firmly believe that a happy team is a productive team.
-
-### My work
 
 Most recently, I help my organisation by leading the Drupal Service Area. This is a new experience for me and I am hoping to learn deliver the best experience to my team and our customers. It is a multi-faceted role and I am hoping to do justice to my team.
 
