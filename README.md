@@ -12,7 +12,9 @@ Thanks to my employer and the Drupal project, I travel quite a bit, which I love
 
 ## A little bit more about me
 
-I have built, and more importantly, helped others build several [Drupal solutions](https://www.drupal.org/u/hussainweb) over the past few years. While Drupal is the focus of my work now, I also use Laravel, Symfony, Angular(JS), Vue, and many related technologies to build awesome stuff.
+### The little I know
+
+I have built, and more importantly, helped others build several [Drupal solutions](https://www.drupal.org/u/hussainweb) over the past few years. While Drupal is the focus of my work now, I use or have used technologies across the spectrum of web development, developer tooling, and infrastructure management. For this, the most recent technologies I have worked with include Laravel, Symfony, React, Angular, Docker, Kubernetes, and others.
 
 I have gathered various certifications over the years, including becoming an [Acquia-certified Grand Master](https://certification.acquia.com/registry/grand-masters?fname=Hussain&lname=Abbas&city=&state=&country=&org=&cred=All). My career has spanned from being a hobbyist and a freelancer to working in a large corporate to leading a small organisation. I have over ten years of industry experience and 20 years of programming experience. Over this time, I have worked with various technologies such as x86 assembly, HTML, CSS, JavaScript, VB6, C#, ASP.NET, PHP, Docker, and related frameworks and tools. These have included working in domains related to media and publishing, eCommerce, information services, enterprise technology, and more.
 
@@ -22,7 +24,13 @@ I am a responsible open source citizen and consciously design solutions benefici
 
 Over the years, I have also grown into a different and important role of mentoring my team and helping them achieve their goals. Through effective mentoring, I have helped transform people into high performing individuals who are happy with what they do. I firmly believe that a happy team is a productive team.
 
-I enjoy meetups, not just tech related, but anything that catches my interest. I frequent meetup groups related to DevOps, Machine Learning, Data Science, and more. I also help organise [Drupal meetups](https://www.meetup.com/drupalbangalore/) and camps in my city of Bangalore. I am an avid listener of various podcasts and even co-hosted a podcast for a time.
+### My work
+
+Most recently, I help my organisation by leading the Drupal Service Area. This is a new experience for me and I am hoping to learn deliver the best experience to my team and our customers. It is a multi-faceted role and I am hoping to do justice to my team.
+
+I enjoy meetups, not just tech related, but anything that catches my interest. I frequent meetup groups related to DevOps, Machine Learning, Data Science, and more. I used to help organise [Drupal meetups](https://www.meetup.com/drupalbangalore/) and camps when I lived in Bangalore. I am hoping to do the same in the Greater Toronto region now. I am an avid listener of various podcasts and even co-hosted a podcast for a time.
+
+### My pursuits
 
 I love travelling and have been able to travel to various countries while attending and speaking at conferences. I have presented a talk at every DrupalCon and almost every DrupalCamp I have attended. I have also presented talks remotely to distributed audiences and at several meetups.
 
