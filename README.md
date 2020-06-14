@@ -12,6 +12,8 @@ Thanks to my employer and the Drupal project, I travel quite a bit, which I love
 
 ## A little bit more about me
 
+<img src="./hussainweb-personal-map.png" alt="Hussain Abbas (hussainweb) Personal Map" title="hussainweb's personal map" />
+
 ### The little I know
 
 I have built, and more importantly, helped others build several [Drupal solutions](https://www.drupal.org/u/hussainweb) over the past few years. While Drupal is the focus of my work now, I use or have used technologies across the spectrum of web development, developer tooling, and infrastructure management. For this, the most recent technologies I have worked with include Laravel, Symfony, React, Angular, Docker, Kubernetes, and others.
